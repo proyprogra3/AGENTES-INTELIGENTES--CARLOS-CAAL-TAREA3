@@ -38,3 +38,5 @@ explorer = ExplorerAgent(grid_size)
 for _ in range(20):
     explorer.explore()
 
+# PRUEBA FINAL CARLOS ROLANDO CAAL ARANA
+
