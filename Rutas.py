@@ -50,3 +50,5 @@ print("Recorrido óptimo:")
 for step in best_path:
     print(step)
 print(f"Utilidad total acumulada: {total_utility}")
+
+# PRUEBA FINAL CARLOS ROLANDO CAAL ARANA
